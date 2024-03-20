@@ -1,6 +1,7 @@
 body {
-    width: 90%;
-    margin: 50px auto;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
     background-color: #caeaf8;
     text-align: justify;
   }
